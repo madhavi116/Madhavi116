@@ -1,10 +1,8 @@
-# 💫 About Me:
-🔭 I am Madhavi, a self-taught, freelance full-stack software developer. I am passionate about developing software as it allows me to come up with ideas and bring them to life.
-🌱 I am enthusiastic about crafting software applications and seeing them come alive.
-🤝 I'm happy to assist with any development projects that utilize .NET, React.js, and Azure cloud services.
+
+🔭 I am Madhavi, a self-taught, freelance full-stack software developer. I am passionate about developing software as it allows me to come up with ideas and bring them to life. <br>
+🌱 I am enthusiastic about crafting software applications and seeing them come alive.<br>
+🤝 I'm happy to assist with any development projects that utilize .NET, React.js, and Azure cloud services.<br>
  
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhavi116) 
