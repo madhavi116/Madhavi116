@@ -1,7 +1,7 @@
 
-🔭 I am Madhavi, a self-taught, freelance full-stack software developer. I am passionate about developing software as it allows me to come up with ideas and bring them to life. <br>
+🔭 I am Madhavi, a self-taught, freelance full-stack software developer.
 🌱 I am enthusiastic about crafting software applications and seeing them come alive.<br>
-🤝 I'm happy to assist with any development projects that utilize .NET, React.js, and Azure cloud services.<br>
+🤝 I'm happy to assist with any applications that utilize .NET, React.js, and Azure cloud services.<br>
  
 
 ## 🌐 Socials:
